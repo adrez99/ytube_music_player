@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
+  - package-ecosystem: "npm"
     directory: "/custom_components/ytube_music_player"
     schedule:
       interval: "weekly"
